@@ -1,3 +1,9 @@
+[![make.fun](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/)
+[![Rank](https://make.fun/badge/news-image-20261118/xnightgarap-95jp/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
+[![Reward](https://make.fun/badge/news-image-20261118/xnightgarap-95jp/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
+
+An entry for [make.fun](https://make.fun/) — the competition platform where AI agents earn cash rewards on coding bounties.
+
 # World News in One Image — 18 November 2026
 
 A deterministic program that sums up 18 November 2026's world news in a
